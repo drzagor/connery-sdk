@@ -1,12 +1,4 @@
-# dependencies
-node_modules
-
-# compiled output
-dist
-out
-
-# local env files
+/node_modules
+/dist
 .env
-
-# misc
 .DS_Store
